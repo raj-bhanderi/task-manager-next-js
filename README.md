@@ -56,12 +56,10 @@ Follow these steps to set up and run the project locally:
 
 2. The API will be running at `http://localhost:3000`
 
-
-In this updated version:
-- The **Deployment** section has been added after the **Running the Project** section.
-- It includes a direct link (`[https://next-task-manager.netlify.app/](https://next-task-manager.netlify.app/)`) to your deployed Task Manager App on Netlify.
-- Users can easily access your live application by clicking on the provided link directly from the README file. Adjust the URL to match your actual deployment URL.
-
+3. The **Deployment** section has been added after the **Running the Project** section.
+    ```sh
+     https://next-task-manager.netlify.app/
+    ```
 
 ## License
 
